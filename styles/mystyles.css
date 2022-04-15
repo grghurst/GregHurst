@@ -1,0 +1,32 @@
+
+
+.myfooter{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 25px;
+    text-align:center;
+    bottom:10%;
+    left:35%;
+    color:whitesmoke
+}
+
+.myinfo{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+    color:black;
+    text-align:left;
+}
+
+a:hover{
+    text-align:center;
+    color: white;
+    text-emphasis:initial;
+    text-decoration: wavy;
+}
+
+.myinfo2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+    color:white;
+    text-align:left;
+}

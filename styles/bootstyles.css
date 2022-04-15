@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(rgba(204, 197, 197, 0.849), rgba(51, 50, 50, 0.726)), url("../assets/images/bgtableau.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-size: 18px;
+    position:absolute;
+    top:0%;
+    width: 75%;
+    left: 10%;
+    font-family:'Courier New', Courier, monospace(--bs-body-font-family);
+  }
+a:hover {
+    text-decoration: underline;
+    text-align:center;
+    font-weight:lighter;
+    color: black;
+    font-family:'Courier New', Courier, monospace(--bs-body-font-family);
+}
+
+.myheader {
+    border: 7px outset rgba(128, 128, 128, 0.466);
+    background-color:ghostwhite;
+    position:absolute;
+    text-align: center;
+    top:0%;
+    width:98%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif(--bs-body-font-family);
+}
+
+.footer {
+    color:white;
+    font-size: 18px;
+    position:absolute; 
+    text-align:center;
+    bottom:8px;
+    left:37%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif(--bs-body-font-family);
+}
+
